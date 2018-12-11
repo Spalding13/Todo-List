@@ -1,5 +1,7 @@
 # Todo-List
-This single-page application is a simple to-do list 
+This single-page application is a simple to-do list:
+
+![Alt text](screenshot.png?raw=true "Todo List")
 
 ## Built With
 HTML
