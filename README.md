@@ -4,9 +4,9 @@ This single-page application is a simple to-do list:
 ![Alt text](screenshot.png?raw=true "Todo List")
 
 ## Built With
-HTML
-CSS
-JQuery
+* HTML
+* CSS
+* JQuery
 
-## Acknowledgments
+### Acknowledgments
 Steve Colt - The Web Developer Bootcamp
